@@ -103,7 +103,7 @@ The system uses a **Retrieval Augmented Generation (RAG)-lite** approach:
 
 ## 👥 Developers
 
-Developed by **Ajay Kumar**
+Developed by **Ajay Kumar Grandhisila**
 *   [LinkedIn](https://www.linkedin.com/in/ajaykumar-8b2ab4258/)
 *   [GitHub](https://github.com/Ajaykumar0875)
 
